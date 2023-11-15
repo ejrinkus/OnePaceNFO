@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tvshow>
+    <title>One Pace</title>
+    <originaltitle>One Piece</originaltitle>
+    <showtitle>One Pace</showtitle>
+    <season>17</season>
+    <episode>101</episode>
+    <plot>The One Pace fan-cut of One Piece</plot>
+    <uniqueid type="fan">fan001</uniqueid>
+    <genre>Anime</genre>
+    <genre>Action &amp; Adventure</genre>
+    <genre>Shounen</genre>
+    <status>Continuing</status>
+    <namedseason number="1">Romance Dawn</namedseason>
+    <namedseason number="2">Orange Town</namedseason>
+    <namedseason number="3">Syrup Village</namedseason>
+    <namedseason number="4">Gaimon</namedseason>
+    <namedseason number="5">Baratie</namedseason>
+    <namedseason number="6">Arlong Park</namedseason>
+    <namedseason number="7">The Adventures of Buggy's Crew</namedseason>
+    <namedseason number="8">Loguetown</namedseason>
+    <namedseason number="9">Reverse Mountain</namedseason>
+    <namedseason number="10">Whiskey Peak</namedseason>
+    <namedseason number="11">The Trials of Koby-Meppo</namedseason>
+    <namedseason number="12">Little Garden</namedseason>
+    <namedseason number="13">Drum Island</namedseason>
+    <namedseason number="14">Arabasta (INCOMPLETE)</namedseason>
+    <namedseason number="15">Jaya</namedseason>
+    <namedseason number="16">Skypiea (INCOMPLETE)</namedseason>
+    <namedseason number="17">Long Ring Long Land</namedseason>
+    <namedseason number="18">Water Seven (INCOMPLETE)</namedseason>
+    <namedseason number="19">Enies Lobby</namedseason>
+    <namedseason number="20">Post-Enies Lobby</namedseason>
+    <namedseason number="21">Thriller Bark</namedseason>
+    <namedseason number="22">Sabaody Archipelago</namedseason>
+    <namedseason number="23">Amazon Lily</namedseason>
+    <namedseason number="24">Impel Down</namedseason>
+    <namedseason number="25">Marineford</namedseason>
+    <namedseason number="26">Post-War</namedseason>
+    <namedseason number="27">Return to Sabaody</namedseason>
+    <namedseason number="28">Fishman Island</namedseason>
+    <namedseason number="29">Punk Hazard</namedseason>
+    <namedseason number="30">Dressrosa</namedseason>
+    <namedseason number="31">Zou</namedseason>
+    <namedseason number="32">Whole Cake Island</namedseason>
+    <namedseason number="33">Reverie</namedseason>
+    <namedseason number="34">Wano</namedseason>
+    <namedseason number="35">Egghead</namedseason>
+</tvshow>
