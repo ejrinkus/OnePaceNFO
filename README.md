@@ -1,7 +1,10 @@
 # One Pace NFO
 
-This repo contains NFO and poster art files to compliment the One Pace project.
-It does _not_ contain any video files, only images and metadata.
+This repo contains NFO files to compliment the [One Pace](https://onepace.net) project.
+It does _not_ contain any video files, only metadata.  For poster art, there's zip file
+in the #frequently-asked-questions channel on the One Pace Discord, created by the
+lovely artists on the One Pace team.  I'm not providing the images here, and instead
+deferring to that source.
 
 I'll be honest with y'all, I have no idea how much effort I'll really put into
 maintaining this.  I started doing this for myself to make the Kodi experience
