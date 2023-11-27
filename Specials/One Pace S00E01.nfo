@@ -5,5 +5,7 @@
 Anime Episode(s): Strong World (movie 10)
     </plot>
     <uniqueid type="fan">fan001</uniqueid>
+    <season>0</season>
+    <episode>1</episode>
     <displayseason>Specials</displayseason>
 </episodedetails>

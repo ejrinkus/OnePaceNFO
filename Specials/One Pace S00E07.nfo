@@ -7,5 +7,7 @@ Manga Chapter(s): 42, 22
 Anime Episode(s): 18
     </plot>
     <uniqueid type="fan">fan001</uniqueid>
+    <season>0</season>
+    <episode>7</episode>
     <displayseason>Specials</displayseason>
 </episodedetails>
